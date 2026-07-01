@@ -121,7 +121,7 @@ komari-theme-Glassmorphism 是一个为 Komari Monitor 打造的毛玻璃（Glas
 
 ## 使用
 
-1. 从当前仓库的 [Release 页面](https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases) 下载最新的 `komari-theme-Glassmorphism-build-*.zip` 文件
+1. 从当前仓库的 [Release 页面](https://github.com/Chen017/komari-theme-Glassmorphism/releases) 下载最新的 `komari-theme-Glassmorphism-build-*.zip` 文件
 2. 登录 Komari Monitor 后，点击"设置"，进入"主题管理"选项卡
 3. 点击"上传主题"，选择下载的 zip 文件
 4. 刷新页面，即可应用主题
